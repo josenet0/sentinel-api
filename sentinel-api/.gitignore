@@ -1,0 +1,16 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+/classes/
+/.mtj.tmp/
+*.class
+*.log
+*.ctxt
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+*.iws
+.DS_Store
